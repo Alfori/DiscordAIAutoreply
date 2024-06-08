@@ -18,8 +18,8 @@ Using the Discord API, made a way to schedule messages at a certain time to be s
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Change the 'myToken' to your token: <br/>
+<img src="https://imgur.com/ztfSemL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
