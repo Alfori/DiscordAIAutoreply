@@ -22,8 +22,8 @@ Change the 'myToken' to your token: <br/>
 <img src="https://imgur.com/vo5qm9V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Change the channel ID to the channel or person you want to send it to:  <br/>
+<img src="https://i.imgur.com/vo5qm9V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
